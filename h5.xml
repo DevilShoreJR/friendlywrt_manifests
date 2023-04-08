@@ -2,7 +2,7 @@
 <manifest>
   <remote name="origin"
           fetch="."
-          revision="refs/heads/master" />
+          revision="refs/heads/master-v19.07.5" />
 
   <project path="kernel" name="linux" remote="origin" revision="refs/heads/sunxi-4.14.y" />
   <project path="u-boot" name="u-boot" remote="origin" revision="refs/heads/sunxi-v2017.x" />
